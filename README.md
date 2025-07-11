@@ -18,7 +18,7 @@ I asked ChatGPT what the error "No Default found" meant, and after it guided me 
 
 Because of this, and going around in circles; I asked:
 
-"How can I restart this project?"
+"How can I restart this project and avoid running into this problem again?"
 
 ChatGPT suggested using Vite instead of snowpack, I then looked on google to find out how to implement vite into my project to replace snowpack, and now my project is running on it. Because of Chatgpt suggesting using Vite in place of snowpack, I was able to get passed the issue. 
 
